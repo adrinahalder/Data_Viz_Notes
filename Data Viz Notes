@@ -1,1 +1,11 @@
+Story telling with data
+Type of graph - Highlighted table, Heat map, Symbol map( same as drop in maps), Filled map (Google map), pie chart, bar chart, stacked bar chart, 
+sise by sise bar, tree chart, circle views,side by side circle view, line chart( continious/ discrete), Dual line chart, area chart(continious/discrete),
+Scatter plot, histogram, box and whisker plot, bullet chart, gantt chart, packed bubble chart,
+dos and don'ts
+- data shouls be more highlighted, graphs may not show always
+- highlight tables ( heat map, colored sells)
+- if there is less amount of values use such graph which shows data difference clearly
+Ethics is a big part of data vizualization
+d3.com
 
